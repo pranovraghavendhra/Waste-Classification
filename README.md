@@ -2,7 +2,7 @@
 
 ## Dataset
 Download the dataset from Kaggle and place it in a folder named `dataset/`.
-Link: [add your Kaggle dataset link here]
+Link: https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
 ## Files
 - `train_waste.m` - Training script
